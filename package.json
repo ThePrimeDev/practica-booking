@@ -1,0 +1,13 @@
+{
+  "name": "orar-praktika",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "schedule": "node scripts/build-schedule.mjs",
+    "db:local": "wrangler d1 execute DB --local --file=schema.sql",
+    "db:remote": "wrangler d1 execute DB --remote --file=schema.sql",
+    "dev": "wrangler pages dev public --binding ADMIN_KEY=dev-admin --port 8788",
+    "deploy": "wrangler pages deploy public"
+  },
+  "devDependencies": { "wrangler": "^4.0.0" }
+}

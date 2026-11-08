@@ -1,0 +1,10 @@
+name = "orar-praktika"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "public"
+
+# Create the database once:  npx wrangler d1 create orar-praktika
+# then paste the printed database_id below.
+[[d1_databases]]
+binding = "DB"
+database_name = "orar-praktika"
+database_id = "c1b3fc78-0007-433b-8490-2dfc8c084bee"

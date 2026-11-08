@@ -1,0 +1,250 @@
+{
+ "teacher": "Bolea Cristina",
+ "school": "COLEGIUL NATIONAL \"MIHAI EMINESCU\", ORADEA, BIHOR",
+ "generated": "2026-11-08T14:56:13.582Z",
+ "validity": {
+  "from": "2026-09-28",
+  "to": "2027-07-31"
+ },
+ "periods": [
+  {
+   "n": 1,
+   "start": "08:00",
+   "end": "08:50"
+  },
+  {
+   "n": 2,
+   "start": "09:00",
+   "end": "09:50"
+  },
+  {
+   "n": 3,
+   "start": "10:00",
+   "end": "10:50"
+  },
+  {
+   "n": 4,
+   "start": "11:10",
+   "end": "12:00"
+  },
+  {
+   "n": 5,
+   "start": "12:10",
+   "end": "13:00"
+  },
+  {
+   "n": 6,
+   "start": "13:10",
+   "end": "14:00"
+  },
+  {
+   "n": 7,
+   "start": "14:10",
+   "end": "15:00"
+  }
+ ],
+ "days": [
+  "Luni",
+  "Marti",
+  "Miercuri",
+  "Joi",
+  "Vineri"
+ ],
+ "lessons": [
+  {
+   "id": "0-1",
+   "d": 0,
+   "p": 1,
+   "len": 1,
+   "subject": "Tehnologia informatiei si a comunicatiilor",
+   "short": "TIC",
+   "class": "X A",
+   "color": "#339933",
+   "group": "",
+   "room": "Lab Info 3",
+   "signable": true
+  },
+  {
+   "id": "0-3",
+   "d": 0,
+   "p": 3,
+   "len": 1,
+   "subject": "Tehnologia informatiei si a comunicatiilor",
+   "short": "TIC",
+   "class": "IX F",
+   "color": "#3333CC",
+   "group": "",
+   "room": "Lab Info 3",
+   "signable": true
+  },
+  {
+   "id": "0-4",
+   "d": 0,
+   "p": 4,
+   "len": 1,
+   "subject": "Informatica teorie",
+   "short": "Informatica",
+   "class": "IX F",
+   "color": "#3333CC",
+   "group": "",
+   "room": "Sala 217",
+   "signable": true
+  },
+  {
+   "id": "0-5",
+   "d": 0,
+   "p": 5,
+   "len": 1,
+   "subject": "Informatica teorie",
+   "short": "Informatica",
+   "class": "X F",
+   "color": "#009999",
+   "group": "",
+   "room": "Sala 20",
+   "signable": true
+  },
+  {
+   "id": "0-6",
+   "d": 0,
+   "p": 6,
+   "len": 2,
+   "subject": "Informatica",
+   "short": "Informatica",
+   "class": "IX F",
+   "color": "#3333CC",
+   "group": "Info1",
+   "room": "Lab Info 3",
+   "signable": true
+  },
+  {
+   "id": "1-6",
+   "d": 1,
+   "p": 6,
+   "len": 1,
+   "subject": "Dezvoltare personala si consiliere in cariera",
+   "short": "Dezvoltare personala",
+   "class": "IX F",
+   "color": "#3333CC",
+   "group": "",
+   "room": "Sala 217",
+   "signable": false
+  },
+  {
+   "id": "1-7",
+   "d": 1,
+   "p": 7,
+   "len": 1,
+   "subject": "Tehnologia informatiei si a comunicatiilor",
+   "short": "TIC",
+   "class": "X F",
+   "color": "#009999",
+   "group": "",
+   "room": "Lab Info 1",
+   "signable": true
+  },
+  {
+   "id": "2-1",
+   "d": 2,
+   "p": 1,
+   "len": 3,
+   "subject": "Informatica",
+   "short": "Informatica",
+   "class": "X F",
+   "color": "#009999",
+   "group": "Info1",
+   "room": "Lab Info 2",
+   "signable": true
+  },
+  {
+   "id": "2-4",
+   "d": 2,
+   "p": 4,
+   "len": 1,
+   "subject": "Tehnologia informatiei si a comunicatiilor",
+   "short": "TIC",
+   "class": "IX A",
+   "color": "#FFC0C0",
+   "group": "",
+   "room": "Lab Info 3",
+   "signable": true
+  },
+  {
+   "id": "2-5",
+   "d": 2,
+   "p": 5,
+   "len": 1,
+   "subject": "Tehnologia informatiei si a comunicatiilor",
+   "short": "TIC",
+   "class": "X D",
+   "color": "#00FFCC",
+   "group": "",
+   "room": "Lab Info 3",
+   "signable": true
+  },
+  {
+   "id": "3-1",
+   "d": 3,
+   "p": 1,
+   "len": 2,
+   "subject": "Informatica",
+   "short": "Informatica",
+   "class": "IX F",
+   "color": "#3333CC",
+   "group": "Info2",
+   "room": "Lab Info 2",
+   "signable": true
+  },
+  {
+   "id": "3-4",
+   "d": 3,
+   "p": 4,
+   "len": 1,
+   "subject": "Informatica teorie",
+   "short": "Informatica",
+   "class": "IX F",
+   "color": "#3333CC",
+   "group": "",
+   "room": "Sala 217",
+   "signable": true
+  },
+  {
+   "id": "3-5",
+   "d": 3,
+   "p": 5,
+   "len": 3,
+   "subject": "Informatica",
+   "short": "Informatica",
+   "class": "X F",
+   "color": "#009999",
+   "group": "Info2",
+   "room": "Kaufmann",
+   "signable": true
+  },
+  {
+   "id": "4-1",
+   "d": 4,
+   "p": 1,
+   "len": 1,
+   "subject": "Informatica",
+   "short": "Informatica",
+   "class": "IX E",
+   "color": "#9900FF",
+   "group": "",
+   "room": "Lab Info 3",
+   "signable": true
+  },
+  {
+   "id": "4-2",
+   "d": 4,
+   "p": 2,
+   "len": 1,
+   "subject": "Tehnologia informatiei si a comunicatiilor",
+   "short": "TIC",
+   "class": "IX E",
+   "color": "#9900FF",
+   "group": "",
+   "room": "Lab Info 3",
+   "signable": true
+  }
+ ]
+}

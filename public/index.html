@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#ffffff">
+<title>Bolea Cristina · Orar practică</title>
+<link rel="stylesheet" href="fonts/fonts.css">
+<link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1 id="teacher">Bolea Cristina</h1>
+    <p id="school"></p>
+  </div>
+  <div class="who">
+    <span id="me" class="pill"></span>
+    <button id="adminBtn" class="ghost"></button>
+    <div class="seg" role="group" aria-label="Language">
+      <button data-lang="hu">HU</button><button data-lang="ro">RO</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="bar">
+    <div class="weeknav">
+      <button id="prev" class="ghost" aria-label="◀">‹</button>
+      <div class="wk"><strong id="wkTitle"></strong><small id="wkSub"></small></div>
+      <button id="next" class="ghost" aria-label="▶">›</button>
+      <button id="thisWeek" class="ghost"></button>
+    </div>
+    <div class="seg" role="group" id="views">
+      <button data-view="grid"></button><button data-view="list"></button>
+    </div>
+  </div>
+
+  <div id="notice" role="status"></div>
+  <div id="quota"></div>
+
+  <div id="stage"></div>
+  <p class="legend" id="legend"></p>
+</main>
+
+<dialog id="slot"></dialog>
+<dialog id="adm"></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="app.js?v=3"></script>
+</body>
+</html>
